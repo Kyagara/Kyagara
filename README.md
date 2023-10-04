@@ -1,16 +1,24 @@
-### Hi there 👋
+<h1 align="center">Hey, name's Kevin.</h1>
 
-<!--
-**Kyagara/Kyagara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+-   I speak Portuguese 🇧🇷 and English 🇺🇸, feel free to contact me!
+-   Backend Development enjoyer.
+-   Love learning new things.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Working on:
+
+-   [🌙 crescent](https://github.com/Kyagara/crescent), a process manager written in Rust.
+-   [equinox](https://github.com/Kyagara/equinox), an API client for all Riot Games API [endpoints](https://developer.riotgames.com/apis) written in Go.
+
+#### Projects just for fun:
+
+-   Minecraft server Layer 7 [proxy](https://github.com/Kyagara/bardiel) written in Rust.
+-   Discord [bot](https://github.com/Kyagara/joel) written in Elixir.
+-   Minecraft QoL [mod](https://github.com/Kyagara/fred) written in Java.
+
+<hr>
+
+<p align=center>
+  <img align="center" src="https://github-readme-stats-kyagara.vercel.app/api/top-langs/?username=Kyagara&layout=compact&show_icons=true&theme=transparent&langs_count=6" alt="Most used languages" />
+</p>
