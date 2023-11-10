@@ -20,5 +20,5 @@
 <hr>
 
 <p align=center>
-  <img align="center" src="https://github-readme-stats-kyagara.vercel.app/api/top-langs/?username=Kyagara&layout=compact&show_icons=true&theme=transparent&langs_count=6" alt="Most used languages" />
+  <img align="center" src="https://github-readme-stats-kyagara.vercel.app/api/top-langs/?username=Kyagara&layout=compact&show_icons=true&theme=transparent&langs_count=6&exclude_repo=go-chess,go-chat,discord-banning,conv" alt="Most used languages" />
 </p>
