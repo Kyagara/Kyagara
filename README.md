@@ -11,6 +11,10 @@
 -   [🌙 crescent](https://github.com/Kyagara/crescent), a process manager written in Rust.
 -   [equinox](https://github.com/Kyagara/equinox), an API client for all Riot Games API [endpoints](https://developer.riotgames.com/apis) written in Go.
 
+#### Worked on:
+
+-  Sunlight Esports [website](https://sunesports.pages.dev/) and [services](https://github.com/Kyagara/sunesports).
+
 #### Projects just for fun:
 
 -   Minecraft server Layer 7 [proxy](https://github.com/Kyagara/bardiel) written in Rust.
