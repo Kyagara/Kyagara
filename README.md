@@ -17,9 +17,12 @@
 
 #### Projects just for fun:
 
--   [hagelslag](https://github.com/Kyagara/hagelslag): HTTP and Minecraft server scanner written in `C`.
--   [bardiel](https://github.com/Kyagara/bardiel): Minecraft server Layer 7 proxy written in `Rust`.
--   [joel](https://github.com/Kyagara/joel): Discord bot written in `Elixir`.
+-   [hagelslag](https://github.com/Kyagara/hagelslag): HTTP and Minecraft server scanner, searches every ip (ipv4) for servers, written in `C`.
+-   [discord-esports](https://github.com/Kyagara/discord-esports): Discord bot that sends upcoming esports matches and other commands, written in `Go`.
+-   [lol-match-crawler](https://github.com/Kyagara/lol-match-crawler): Example use of `equinox` that gets matches of top ranked players, written in `Go`.
+-   [1brc](https://github.com/Kyagara/1brc): 1brc challenge in `Go`.
+-   [bardiel](https://github.com/Kyagara/bardiel): Barebones Minecraft Layer 7 proxy written in `Rust`.
+-   [joel](https://github.com/Kyagara/joel): Discord bot for music and random commands for personal use, written in `Elixir`.
 -   [Fred](https://github.com/Kyagara/fred): Minecraft QoL mod written in `Java`.
 
 <hr>
