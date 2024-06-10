@@ -8,8 +8,8 @@
 
 #### Working on:
 
--   [🌙 crescent](https://github.com/Kyagara/crescent), a process manager written in Rust.
--   [equinox](https://github.com/Kyagara/equinox), an API client for all Riot Games API [endpoints](https://developer.riotgames.com/apis) written in Go.
+-   [🌙 crescent](https://github.com/Kyagara/crescent), a process manager written in `Rust`.
+-   [equinox](https://github.com/Kyagara/equinox), a client for all Riot Games API [endpoints](https://developer.riotgames.com/apis) written in `Go`.
 
 #### Worked on:
 
@@ -17,9 +17,10 @@
 
 #### Projects just for fun:
 
--   Minecraft server Layer 7 [proxy](https://github.com/Kyagara/bardiel) written in Rust.
--   Discord [bot](https://github.com/Kyagara/joel) written in Elixir.
--   Minecraft QoL [mod](https://github.com/Kyagara/fred) written in Java.
+-   [hagelslag](https://github.com/Kyagara/hagelslag): HTTP and Minecraft server scanner written in `C`.
+-   [bardiel](https://github.com/Kyagara/bardiel): Minecraft server Layer 7 proxy written in `Rust`.
+-   [joel](https://github.com/Kyagara/joel): Discord bot written in `Elixir`.
+-   [Fred](https://github.com/Kyagara/fred): Minecraft QoL mod written in `Java`.
 
 <hr>
 
