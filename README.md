@@ -12,7 +12,7 @@
 #### Favorite projects:
 
 -   [rt](https://github.com/Kyagara/rt), a Twitch and Youtube cross platform desktop app.
--   [🌙 crescent](https://github.com/Kyagara/crescent), a tool to help quickly create background services.
+-   [crescent](https://github.com/Kyagara/crescent), a tool to help quickly create background services.
 -   [equinox](https://github.com/Kyagara/equinox), a `Go` client for all Riot Games API [endpoints](https://developer.riotgames.com/apis).
 -   [hagelslag](https://github.com/Kyagara/hagelslag): HTTP, Veloren and Minecraft server scanner, generates and scans every IP (IPv4) for servers, written in `C`, with a more functional version written in [Go](https://github.com/Kyagara/hagelslag-go).
 -   [CoopTweaks](https://github.com/Kyagara/CoopTweaks): Minecraft mod that adds more coop related features like advancements syncing and Discord chat bridge.
