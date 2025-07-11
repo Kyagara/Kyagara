@@ -9,21 +9,13 @@
 -   Really like Linux.
 -   Love learning new things.
 
-#### Working on:
-
--   [🌙 crescent](https://github.com/Kyagara/crescent), a tool to help quickly create background services, written in `Rust`.
--   [equinox](https://github.com/Kyagara/equinox), a client for all Riot Games API [endpoints](https://developer.riotgames.com/apis) written in `Go`.
-
 #### Favorite projects:
 
+-   [rt](https://github.com/Kyagara/rt), a Twitch and Youtube cross platform desktop app.
+-   [🌙 crescent](https://github.com/Kyagara/crescent), a tool to help quickly create background services.
+-   [equinox](https://github.com/Kyagara/equinox), a `Go` client for all Riot Games API [endpoints](https://developer.riotgames.com/apis).
 -   [hagelslag](https://github.com/Kyagara/hagelslag): HTTP, Veloren and Minecraft server scanner, generates and scans every IP (IPv4) for servers, written in `C`, with a more functional version written in [Go](https://github.com/Kyagara/hagelslag-go).
--   [1brc](https://github.com/Kyagara/1brc): 1brc challenge in `Go`.
--   [bardiel](https://github.com/Kyagara/bardiel): Barebones Minecraft Layer 7 proxy written in `Rust`.
--   [CoopTweaks](https://github.com/Kyagara/CoopTweaks): Minecraft mod that adds more coop related features like advancements syncing and Discord chat bridge, written in `Java`.
--   [Fred](https://github.com/Kyagara/fred): Minecraft QoL mod written in `Java`.
--   [joel](https://github.com/Kyagara/joel): Discord bot for music and random commands for personal use, written in `Rust` and `Elixir`.
--   [sunesports](https://github.com/Kyagara/sunesports): Monorepo with a [website](https://sunesports.pages.dev) and services for an amateur League of Legends team, written in `Typescript`/`Javascript`.
--   [discord-esports](https://github.com/Kyagara/discord-esports): Discord bot that sends upcoming esports matches and other commands, written in `Go`.
+-   [CoopTweaks](https://github.com/Kyagara/CoopTweaks): Minecraft mod that adds more coop related features like advancements syncing and Discord chat bridge.
 
 <hr>
 
