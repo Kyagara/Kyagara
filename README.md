@@ -1,7 +1,5 @@
 <h1 align="center">👋</h1>
 
-<p align="center">On <a href="https://codeberg.org/Kyagara">Codeberg</a>. GitHub is set as a mirror.</p>
-
 ### About me
 
 - I speak Portuguese and English, feel free to contact me!
